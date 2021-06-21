@@ -7,7 +7,6 @@ body{
 h1{
     font-size: 50px;
 }
-
 .name-highlight{
     color: orange;
 }
@@ -27,4 +26,12 @@ h1{
 }
 section{
     height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: wheat;
+    font-weight: 600;
 }
